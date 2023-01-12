@@ -12,3 +12,6 @@ Tecnologias utilizadas:
 
 O Sql server deixei uma senha na qual utilizei em meu pc, precisa muda-la para a sua conexão particular, ou caso for logar com autenticação do windows,
 apenas apague o password ex: password:2313223 remova do password até o último número, caso não funcionar, pesquisa no google: conexão string autenticação windows C# asp net
+
+para rodar o projeto no front esteja dentro da pasta do front CaseLEKSTIASPNETMVCSimplificado\caselekprojectfromv1 e digite no cmd do vs code: yarn start
+vai abrir localhost:3000 que é a porta do react
