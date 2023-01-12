@@ -1,6 +1,7 @@
 # apicaseLek-challenge
 desafio lek &amp; tek tecnologia
 
+Controle de estoque de mercadorias, entradas e saída de mercadorias.
 Tecnologias utilizadas:
 
 #Sql server, sql server management studio v18
